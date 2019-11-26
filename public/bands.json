@@ -1,0 +1,88 @@
+{
+  "bands": [
+    {
+      "name": "Silverchair",
+      "id": "bd01",
+      "from": "Australia",
+      "creation": "1992",
+      "genre": "Grunge, Alternative metal",
+      "members": [
+        {
+          "name": "Daniel Johns",
+          "does": "Guitars and Vocal"
+        },
+        {
+          "name": "Ben Gillies",
+          "does": "Drums"
+        },
+        {
+          "name": "Chris Joannou",
+          "does": "Bass"
+        }
+      ],
+      "albums": [
+        {
+          "name": "Frogstomp",
+          "year": "1995",
+          "songs": [
+            {
+              "name": "Israel's Son",
+              "track": "1",
+              "time": "5:19"
+            },
+            {
+              "name": "Tomorrow",
+              "track": "2",
+              "time": "4:26"
+            },
+            {
+              "name": "Faultline",
+              "track": "3",
+              "time": "4:19"
+            },
+            {
+              "name": "Pure Massacre",
+              "track": "4",
+              "time": "4:59"
+            },
+            {
+              "name": "Shade",
+              "track": "5",
+              "time": "4:02"
+            },
+            {
+              "name": "Leave me out",
+              "track": "6",
+              "time": "3:03"
+            },
+            {
+              "name": "Suicidal dream",
+              "track": "7",
+              "time": "3:13"
+            },
+            {
+              "name": "Madman",
+              "track": "8",
+              "time": "2:43"
+            },
+            {
+              "name": "Undecided",
+              "track": "9",
+              "time": "4:37"
+            },
+            {
+              "name": "Cicada",
+              "track": "10",
+              "time": "5:10"
+            },
+            {
+              "name": "Findaway",
+              "track": "11",
+              "time": "2:58"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
